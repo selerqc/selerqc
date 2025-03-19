@@ -73,6 +73,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           contribution_years: "all"
+          first_year: "2022"
 
       # Push the generated SVG to the output branch
       - name: Push pacman-contribution-graph.svg to the output branch
