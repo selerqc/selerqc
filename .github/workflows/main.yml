@@ -104,7 +104,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          first_year: "2010" # Adjust this to the year you joined GitHub
+          first_year: "2022" # Adjust this to the year you joined GitHub
 
       - name: Push Pac-Man Graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
