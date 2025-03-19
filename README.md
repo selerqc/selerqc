@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-      <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com/?user=selerqc)](https://git.io/streak-stats)/?user=selerqc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+      <img width=390 src="https://streak-stats.demolab.com/?user=selerqc/?user=selerqc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
