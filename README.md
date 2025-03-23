@@ -63,6 +63,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align=center>
   <a href="https://github.com/selerqc/github-readme-streak-stats"><img width="40%" src="https://streak-stats.demolab.com?user=selerqc&theme=radical" alt="GitHub Streak"/></a>
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=selerqc&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
@@ -73,7 +74,6 @@
 
 <hr/>
 
-<br/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋Konichiwarts" />
