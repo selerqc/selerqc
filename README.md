@@ -1,14 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
 
 <h1 align="center">
-    <picture>
-        <!-- Light Mode Image -->
-        <source media="(prefers-color-scheme: light)" 
-                srcset="https://readme-typing-svg.herokuapp.com/?color=black&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Agustin!;">
-        <!-- Dark Mode Image (Default) -->
-        <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Agustin!;" 
-             alt="Hi There! I'm Charles Agustin!" />
-    </picture>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Agustin!;" />
 </h1>
 
 
