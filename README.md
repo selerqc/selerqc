@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
+<br/>
 <p align="center">
-  <img src="https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif"/>
+  <img src="https://media4.giphy.com/media/2meJwKScDagGBB0wSV/200.webp" width="400" height="200"/>
 </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Agustin!;" />
