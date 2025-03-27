@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
 <br/>
 <p align="center">
   <img src="https://media4.giphy.com/media/2meJwKScDagGBB0wSV/200.webp" width="400" height="200"/>
