@@ -1,10 +1,10 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
 <br/>
 <p align="center">
-  <img src="https://media4.giphy.com/media/2meJwKScDagGBB0wSV/200.webp" width="400" height="200"/>
+  <img src="https://github.com/user-attachments/assets/80dbbeb7-149d-4afa-ba0d-f2e07cdea975" />
 </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Agustin!;" />
+  Hi There!👋 I'm Charles Agustin!
 </h1>
 
 
@@ -26,7 +26,8 @@
 <div align="center"> 
  <p align="center">
   <a href="mailto:agustincharles34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-  <a href="https://www.codecademy.com/profiles/selerqc"><img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/></a> 
+  <a href="https://www.codecademy.com/profiles/selerqc"![github-header-image](https://github.com/user-attachments/assets/2664eaa8-c44a-4cc6-b902-4bc7a7eb40b4)
+><img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/></a> 
   <a href="https://tryhackme.com/p/hedcagustin"><img src="https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> 
   <a href="https://github.com/selerqc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <br>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
