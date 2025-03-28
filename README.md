@@ -32,11 +32,10 @@
   <a href="https://tryhackme.com/p/hedcagustin"><img src="https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> 
   <a href="https://github.com/selerqc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <br>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
-  <a href="https://instagram.com/selerqc"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> 
   <a href="https://reddit.com/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a> 
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
   <a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/Udemy-a435f0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/></a> 
-  <a href="https://www.facebook.com/amnotcharls"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a> 
+
 </p>
 </div>
 
