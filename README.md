@@ -27,8 +27,7 @@
 <div align="center"> 
  <p align="center">
   <a href="mailto:agustincharles34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-  <a href="https://www.codecademy.com/profiles/selerqc"![github-header-image](https://github.com/user-attachments/assets/2664eaa8-c44a-4cc6-b902-4bc7a7eb40b4
-> <img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/></a> 
+  <a href="https://www.codecademy.com/profiles/selerqc"> <img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy"/></a> 
   <a href="https://tryhackme.com/p/hedcagustin"><img src="https://img.shields.io/badge/TryHackMe-0FA47F?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a> 
   <a href="https://github.com/selerqc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <br>
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
