@@ -52,7 +52,7 @@
 <hr/>
 
 <div align="center">
-  <h2> 👾 🟡 👻 My Contributions 👾 🟡 👻</h2>
+  <h2> 👾 🟡 👻 My Contributions 👻 🟡 👾 </h2>
   <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selerqc/selerqc/output/pacman-contribution-graph-dark.svg">
@@ -68,7 +68,8 @@
 <br>
 
 <div align=center>
-  <a href="https://github.com/selerqc/github-readme-streak-stats"><img width="40%" src="https://streak-stats.demolab.com?user=selerqc&theme=radical" alt="GitHub Streak"/></a>
+<!--   <a href="https://github.com/selerqc/github-readme-streak-stats"></a> -->
+ <img width="40%" src="https://streak-stats.demolab.com?user=selerqc&theme=radical" alt="GitHub Streak"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api?username=selerqc&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="38% align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
