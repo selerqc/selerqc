@@ -23,7 +23,10 @@
 ⚡ Fun fact **Godfather > anything else**
 
  </div>
- 
+   <details align="center">
+    <summary><strong>Expand to see more</strong></summary> <br>
+   <p>Bomboclatt!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+  </details>
 <div align="center"> 
  <p align="center">
   <a href="mailto:agustincharles34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
