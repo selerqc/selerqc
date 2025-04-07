@@ -12,7 +12,7 @@
 
 <br/>
 
-## About Me
+<h1 align="center"> About Me </h1>
 
 <div align="center">
  🔭 I’m currently working on **developing a real-time chat application using the MERN Stack.**
@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,npm,java,postgres" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,postman,androidstudio,cs,kotlin,bun,bash,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git,npm,java,postgres,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,mysql,postman,androidstudio,cs,kotlin,bun,bash,vite,firebase,supabase,docker" /><br>
 </div>
 
 <br/>
