@@ -20,7 +20,20 @@
  💬 Ask me about **Node.js, React, MongoDB, Express, or anything related to full-stack development.**
  ⚡ Fun fact: I love watching classic movies, and 'The Godfather' is my all-time favorite!
 </div>
+<hr/>
 
+<h2 align="center">🚀 My Projects 🚀</h2>
+<br/>
+<div align="center">
+
+  <a href="https://felisas-final-project.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Felisa's%20Final%20Project-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="Felisa's Final Project Badge" />
+  </a>
+  <br/><br/>
+  <strong>Felisa's Final Project:</strong>  
+  A real-time chat application built using the MERN Stack.  
+  <a href="https://felisas-final-project.vercel.app/" target="_blank">Check out the live demo here</a> 🚀
+</div>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
