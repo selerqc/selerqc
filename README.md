@@ -9,7 +9,7 @@
 ### 🚀 Featured Project
 
 <div align="center">
-  <strong>Felisa's Gring and Brew</strong>  
+  <strong>Felisa's Grind and Brew</strong>  
   <br/><br/>
   <a href="https://felisas-final-project.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Felisa's%20Final%20Project-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="Felisa's Final Project Badge" />
