@@ -26,9 +26,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img width="40%" src="https://streak-stats.demolab.com?user=selerqc&theme=radical" alt="GitHub Streak"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=selerqc&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
+  <img width="40%" src="https://streak-stats.demolab.com?user=selerqc&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=selerqc&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+
 </div>
 
 ---
