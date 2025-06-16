@@ -1,12 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80dbbeb7-149d-4afa-ba0d-f2e07cdea975" />
-</p>
-
 <h1 align="center">Hey there! 👋 I'm Charles Agustin</h1>
 
-### 🚀 Featured Project
+### 🚀 Palparan Project
 
 <div align="center">
   <strong>Felisa's Grind and Brew</strong>  
@@ -21,7 +16,9 @@
 ### ⚒️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,tailwind,java,cs,kotlin,mysql,postgres,firebase,supabase,vercel,netlify,docker,bash,bun,vite,deno,postman,vscode,github,git,figma,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,mysql,postgres,firebase,supabase,vercel" />
+  <img src="https://skillicons.dev/icons?i=netlify,docker,bash,bun,vite,deno,postman,vscode,git,prisma" />
+  
 </div>
 
 ---
