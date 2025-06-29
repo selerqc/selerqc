@@ -4,12 +4,25 @@
 ### 🚀 Palparan Project
 
 <div align="center">
-  <strong>Felisa's Grind and Brew</strong>  
-  <br/><br/>
-  <a href="https://felisas-final-project.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Felisa's%20Final%20Project-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="Felisa's Final Project Badge" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Felisa's Grind and Brew</strong><br/><br/>
+        <a href="https://felisas-final-project.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Grind%20and%20Brew-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="Grind and Brew Live Demo Badge" />
+        </a>
+      </td>
+      <td align="center">
+        <strong>To-Do App</strong><br/><br/>
+        <a href="https://to-do-app-gamma-brown-99.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/To--Do%20App-Live%20Demo-blue?style=for-the-badge&logo=vercel" alt="To-Do App Live Demo Badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 ---
 
