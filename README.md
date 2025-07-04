@@ -3,7 +3,7 @@
 
   <div align="center" style="border: 1px solid #ccc; border-radius: 12px; padding: 20px;">
     <h3>Portfolio na walang laman</h3>
-    <a href=" https://selerqc.netlify.app/" target="_blank">
+    <a href="https://selerqc.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=netlify"  />
     </a>
   </div>
