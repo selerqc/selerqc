@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
-<h2>Bomboclatt</h2>
+<h2>Halo niece and nephew</h2>
 
   <p>I'm Selerqc, a senior Information Technology student aspiring to become a software engineer, with a strong interest in backend development.</p>
   <h3> Portfolio kuno </h3>
