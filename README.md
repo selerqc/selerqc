@@ -7,7 +7,7 @@
 
   <br>
   <h3>⚒️ Tech Stack & Tools</h3>
-<div   align="left">
+<div   align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,javascript,mysql,postgres,firebase,supabase,vercel" alt="Tech Stack Icons" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,bash,nestjs,postman,git,prisma,sequelize,redis" alt="Tech Stack Icons" />
 </div>
