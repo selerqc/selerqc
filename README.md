@@ -5,8 +5,16 @@
 
 [![Live Demo](https://img.shields.io/badge/selerqc-portfolio-green?style=for-the-badge&logo=netlify)](https://selerqc.netlify.app/)
 
-![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+## 📈 At a glance
+
+<div align="center">
+
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="49%" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="49%" />
+
+</div>
+
+
 
   <br>
   <h3>⚒️ Tech Stack & Tools</h3>
