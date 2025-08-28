@@ -17,8 +17,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, repositories, metadata
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, repositories, metadata
