@@ -5,7 +5,6 @@
 
 [![Live Demo](https://img.shields.io/badge/selerqc-portfolio-green?style=for-the-badge&logo=netlify)](https://selerqc.netlify.app/)
 
-## 📈 At a glance
 
 <div align="center">
 
