@@ -8,8 +8,8 @@
 
 <div align="center">
 
-  <img src="/github-metrics.svg" alt="GitHub Metrics" width="49%" />
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="49%" />
+  <img src="/metrics.base.svg" alt="GitHub Metrics" width="40%" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="40%" />
 
 </div>
 
