@@ -5,12 +5,13 @@
 
 [![Live Demo](https://img.shields.io/badge/selerqc-portfolio-green?style=for-the-badge&logo=netlify)](https://selerqc.netlify.app/)
 
-
 <div align="center">
-
+<img src="/metrics.plugin.wakatime.svg" width="40%"/>
+</div>
+</br></br>
+<div align="center">
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="40%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="40%" />
-
 </div>
 
 
