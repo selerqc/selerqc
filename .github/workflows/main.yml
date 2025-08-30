@@ -29,11 +29,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, repositories, metadata
 
-      -  uses: lowlighter/metrics@latest
-         with:
-          filename: metrics.plugin.wakatime.svg
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
           token: NOT_NEEDED
           base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
-          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+          plugin_skyline: yes
+          plugin_skyline_year: 2025
+          plugin_skyline_frames: 100
+          plugin_skyline_quality: 1
