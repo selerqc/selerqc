@@ -3,15 +3,12 @@
 
   <p>I'm Selerqc, a senior Information Technology student aspiring to become a software engineer, with a strong interest in backend development.</p>
 
-[![Live Demo](https://img.shields.io/badge/selerqc-portfolio-green?style=for-the-badge&logo=netlify)](https://selerqc.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/selerqc-portfolio-red?style=for-the-badge&logo=git)](https://selerqc.netlify.app/)
 
-<div align="center">
-<img src="/metrics.plugin.wakatime.svg" width="40%"/>
-</div>
 </br></br>
 <div align="center">
-  <img src="/metrics.base.svg" alt="GitHub Metrics" width="40%" />
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="40%" />
+  <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="45%" />
 </div>
 
 
