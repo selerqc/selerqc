@@ -51,6 +51,26 @@
                 </div>
                 <div class="row">
                     <section class="column chart">
+                        <h3>Projects activity</h3>
+                        <div class="chart-bars horizontal">
+                            <div class="entry">
+                                <span class="name">MediSync</span>
+                                <div class="bar" style="width: 79.744%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">100%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">selerqc</span>
+                                <div class="bar" style="width: 0.17600000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">portfolio</span>
+                                <div class="bar" style="width: 0.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="column chart">
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
