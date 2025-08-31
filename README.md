@@ -3,7 +3,7 @@
 
 # 👋 Halo, Niece and Nephew  
 
-I'm **Selerqc, a **Senior Information Technology Student** aspiring to become a **Software Engineer**, with a strong interest in **Backend Development**.  
+I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become a **Software Engineer**, with a strong interest in **Backend Development**.  
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=git)](https://selerqc.netlify.app/)
 
@@ -13,7 +13,7 @@ I'm **Selerqc, a **Senior Information Technology Student** aspiring to become a 
 <div align="center">
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
   <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year Isocalendar" width="45%" />
-  <img src="/metrics.plugin.wakatime.svg" alt="Wakatime Stats" width="90%">
+  <img src="/metrics.plugin.wakatime.svg" alt="Wakatime Stats" width="70%">
 </div>
 
 ---
