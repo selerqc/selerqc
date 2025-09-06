@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" alt="Visitor Badge" />
-
 # 👋 Halo, Niece and Nephew  
 
 I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become a **Software Engineer**, with a strong interest in **Backend Development**.  
