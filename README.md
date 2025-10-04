@@ -6,7 +6,6 @@ I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become 
 
 
 ---
-
 ## 📊 GitHub Analytics & Metrics  
 <div align="center">
   <img src="/metrics.base.svg" alt="GitHub Metrics" width="45%" />
