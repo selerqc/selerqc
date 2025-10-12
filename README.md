@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" alt="Visitor Badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" alt="Visitor Badge" />
 👋 Halo, Niece and Nephew  
 
 I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become a **Software Engineer**, with a strong interest in **Backend Development**.  
@@ -21,10 +21,4 @@ I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become 
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,bash,nestjs,postman,git,prisma,sequelize,redis" alt="Tech Stack Icons" />
 </div>
 
---- -->
-<a href="https://github.com/selerqc/selerqc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selerqc/selerqc/main/dark_mode.svg">
-    <img alt="selerqc GitHub Profile README" src="https://raw.githubusercontent.com/selerqc/selerqc/main/light_mode.svg">
-  </picture>
-</a>
+---
