@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate and commit metrics
-        uses: your-username/metrics-generator/action.yml@main
+        uses: selerqc/metrics-generator/action.yml@main
         with:
-          target_repository: your-username/repo
+          target_repository: selerqc/repo
           target_branch: main
           access_token: ${{ secrets.METRICS_TOKEN }}
           user_name: ${{ secrets.METRICS_USER_NAME }}
