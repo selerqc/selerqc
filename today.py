@@ -270,7 +270,8 @@ def flush_cache(edges, filename, comment_size):
     with open(filename, 'w') as f:
         f.writelines(data)
         for node in edges:
-            f.write(hashlib.sha256(node['node']['nameWithOwner'].encode('utf-8')).hexdigest() + ' 0 0 0 0\n')
+            if node and node.get('node') and node['node'].get('nameWithOwner'):
+                f.write(hashlib.sha256(node['node']['nameWithOwner'].encode('utf-8')).hexdigest() + ' 0 0 0 0\n')
 
 
 def add_archive():
