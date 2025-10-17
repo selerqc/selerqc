@@ -28,7 +28,7 @@ jobs:
       - name: Update README file
         env:
           TOKEN: ${{ secrets.TOKEN }}
-          USER_NAME: ${{ secrets.USERNAME }}
+          USER_NAME: selerqc
         run: python today.py
       - name: Commit
         run: |-
