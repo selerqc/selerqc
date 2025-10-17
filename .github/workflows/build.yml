@@ -28,7 +28,7 @@ jobs:
       - name: Update README file
         env:
           TOKEN: ${{ secrets.TOKEN }}
-          USER_NAME: ${{ secrets.USERNAME }}
+          USERNAME: ${{ secrets.USERNAME }}
         run: python today.py
       - name: Commit
         run: |-
