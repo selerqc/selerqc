@@ -1,41 +1,64 @@
-name: Metrics
+# name: Metrics
+# on:
+#   # Schedule daily updates
+#   schedule: [{cron: "0 0 * * *"}]
+#   # (optional) Run workflow manually
+#   workflow_dispatch:
+#   # (optional) Run workflow when pushing on master/main
+#   push: {branches: ["master", "main"]}
+
+# jobs:
+#   github-metrics:
+#     runs-on: ubuntu-latest
+#     environment: 
+#       name: production
+#     permissions:
+#       contents: write
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics.plugin.isocalendar.fullyear.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: ""
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: full-year
+
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           filename: metrics.base.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: header, activity, repositories, metadata
+
+#       -  uses: lowlighter/metrics@latest
+#          with:
+#           filename: metrics.plugin.wakatime.svg
+#           token: NOT_NEEDED
+#           base: ""
+#           plugin_wakatime: yes
+#           plugin_wakatime_sections: time, projects,projects-graphs, languages, languages-graphs, editors
+#           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+
+
+
+name: Update GitHub Metrics
+
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  schedule:
+
+    - cron: '0 6 * * *'
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
 
 jobs:
-  github-metrics:
+  update-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate and commit metrics
+        uses: selerqc/metrics-generator/action.yml@main
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.base.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, repositories, metadata
-
-      -  uses: lowlighter/metrics@latest
-         with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects,projects-graphs, languages, languages-graphs, editors
-          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
-
-
+          target_repository: your-username/repo
+          target_branch: main
+          access_token: ${{ secrets.METRICS_TOKEN }}
+          user_name: ${{ secrets.METRICS_GIT_USER_NAME }}
+          git_user_name: ${{ secrets.METRICS_GIT_USER_NAME }}
+          git_user_email: ${{ secrets.METRICS_GIT_USER_EMAIL }}
+          excluded_languages: php,html,css
