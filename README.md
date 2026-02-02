@@ -1,7 +1,7 @@
 👋 Halo, Niece and Nephew  
 
 I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become a **Software Engineer**, with a strong interest in **Backend Development**.  
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=git)](https://xelerqcc.netlify.app/)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=git)](www.xelerqc.me)
 
 ---
 ## 📊 GitHub Analytics & Metrics  
