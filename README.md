@@ -1,4 +1,4 @@
-👋 Halo, Niece and Nephew  
+<!-- 👋 Halo, Niece and Nephew  -->
 
 <!-- I'm **Selerqc**, a **Senior Information Technology Student** aspiring to become a **Software Engineer**, with a strong interest in **Backend Development**.  -->
 ```cobol
